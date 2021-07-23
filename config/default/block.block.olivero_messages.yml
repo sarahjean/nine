@@ -1,0 +1,22 @@
+uuid: 0bfc702c-ace2-4712-8faa-a183833b9747
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - olivero
+_core:
+  default_config_hash: KfyaTPRJEcAyy2e5AxEfWQnuHcn4WrfvcWek7lSmHZQ
+id: olivero_messages
+theme: olivero
+region: highlighted
+weight: -5
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,20 @@
+uuid: da1cac9c-d278-4ca5-98e4-8af0cfd0c041
+langcode: en
+status: true
+dependencies:
+  theme:
+    - stark
+_core:
+  default_config_hash: PffmQ-ABSz5tFjWmVsR7NesunDnEivvopnJnBjl8KNE
+id: stark_local_actions
+theme: stark
+region: content
+weight: -10
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

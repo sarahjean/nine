@@ -1,0 +1,14 @@
+uuid: 15aa2497-2e37-43a1-9f83-976822a8e72f
+name: 'My BLT site'
+mail: no-reply@acquia.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
