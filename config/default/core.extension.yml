@@ -7,6 +7,8 @@ module:
   block_content: 0
   breakpoint: 0
   contextual: 0
+  datetime: 0
+  datetime_range: 0
   dblog: 0
   diff: 0
   dynamic_page_cache: 0
@@ -14,19 +16,25 @@ module:
   field_ui: 0
   file: 0
   filter: 0
+  help: 0
   image: 0
   layout_builder: 0
   layout_discovery: 0
+  link: 0
   node: 0
+  options: 0
   page_cache: 0
   path: 0
   path_alias: 0
   responsive_image: 0
   syslog: 0
   system: 0
+  telephone: 0
   text: 0
   toolbar: 0
   user: 0
+  views_ui: 0
+  views: 10
   minimal: 1000
 theme:
   stark: 0
